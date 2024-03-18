@@ -40,3 +40,4 @@ Farm - Buddy is a mobile-friendly application designed to assist farmers in diag
 ![Alt Text](Images/Page-5.png)
 ![Alt Text](Images/Page-6.png)
 ![Alt Text](Images/Page-7.png)
+![Alt Text](Images/Page-8.png)
