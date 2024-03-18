@@ -4,11 +4,11 @@ Farm - Buddy is a mobile-friendly application designed to assist farmers in diag
 
 ## Technologies Used
 
-- Next.js: A React framework for frontend development
-- Express.js: A Node.js web application framework for backend development
-- Flask: A micro web framework for Python used for backend services
-- Convolutional Neural Network (CNN): Used for crop disease detection
-- Random Forest: Utilized for crop recommendation based on weather features
+- Next.js: A React framework for frontend development.
+- Express.js: A Node.js web application framework for backend development.
+- Flask: A micro web framework for Python used for backend services.
+- Convolutional Neural Network (CNN): Used for crop disease detection.
+- Random Forest: Utilized for crop recommendation based on weather features.
 
 ## Features
 
