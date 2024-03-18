@@ -31,8 +31,12 @@ Farm - Buddy is a mobile-friendly application designed to assist farmers in diag
 6. **Chatbot for Queries**
    - Includes a chatbot feature for farmers to get answers to disease-related, agriculture-related, and marketplace queries
 
-## Installation
+## Preview
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/farm-buddy.git
+![Alt Text](Images/Page-1.png)
+![Alt Text](Images/Page-2.png)
+![Alt Text](Images/Page-3.png)
+![Alt Text](Images/Page-4.png)
+![Alt Text](Images/Page-5.png)
+![Alt Text](Images/Page-6.png)
+![Alt Text](Images/Page-7.png)
